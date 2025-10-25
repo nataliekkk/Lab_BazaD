@@ -18,3 +18,4 @@ Car Rental Management System — это приложение для управл
 - **SQL Server** (LocalDB или другая версия)
 - **Visual Studio 2022** с установленным рабочим набором для разработки на C#.
 - **Windows, Linux или macOS**
+[![Build and Publish](https://github.com/nataliekkk/Lab_BazaD/actions/workflows/build.yml/badge.svg)](https://github.com/nataliekkk/Lab_BazaD/actions/workflows/build.yml)
